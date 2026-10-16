@@ -5,7 +5,7 @@
 ## 1. Library Health Overview
 * **Total Words Analyzed:** 72
 * **At-Risk Words (Leeches):** 2 (2.78%)
-    * **Editorial Note: A "Leech" is a vocabulary entry that has failed recall checks multiple times and requires targeted intervention.**
+    * **Editorial Note: A "Leech" is a vocabulary entry that has failed review checks multiple times and requires targeted intervention.**
 
 ## 2. Tag Distribution
 

@@ -1,0 +1,14 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Private Configs
+.env
+venv/
+.venv/
+
+# Editor & Scratch files
+note.md
+\!test.py
+*.log

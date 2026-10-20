@@ -13,3 +13,7 @@
 | :--- | :--- |
 | Untagged | 70 |
 | Food | 2 |
+
+## 3. Retention Metrics
+* **Long-Term Target:** Review intervals > 365 days
+* **Tracking Status:** Active monitoring via `CountLongTermWords.py`

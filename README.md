@@ -11,4 +11,4 @@ LexiRead is a vocabulary tracking and diagnostic engine that transforms raw voca
 👉 **[View the Live Vocabulary Status Report](./VOCAB_REPORT.md)**
 
 ## 🤝 Contributing
-Please follow the Conventional Commits specification when submitting PRs.
+All contributors must follow the Conventional Commits specification for PR titles and commit messages.

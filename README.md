@@ -9,3 +9,6 @@ LexiRead is a vocabulary tracking and diagnostic engine that transforms raw voca
   (Raw Data)           (Analysis & Health)             (Markdown Report)       (Live Docs)
 
 👉 **[View the Live Vocabulary Status Report](./VOCAB_REPORT.md)**
+
+## 🤝 Contributing
+All contributors must follow the Conventional Commits specification for PR titles and commit messages.
